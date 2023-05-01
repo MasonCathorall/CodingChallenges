@@ -1,0 +1,15 @@
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.csproj.AssemblyReference.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.AssemblyInfoInputs.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.AssemblyInfo.cs
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.csproj.CoreCompileInputs.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\bin\Debug\net7.0\5-1-23.exe
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\bin\Debug\net7.0\5-1-23.deps.json
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\bin\Debug\net7.0\5-1-23.runtimeconfig.json
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\bin\Debug\net7.0\5-1-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\bin\Debug\net7.0\5-1-23.pdb
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\refint\5-1-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.pdb
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\5-1-23.genruntimeconfig.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-1-23\obj\Debug\net7.0\ref\5-1-23.dll
