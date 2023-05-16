@@ -68,18 +68,10 @@ namespace LinkedLists
 
     public class DetectCycle
     {
-        public Node n;
+        public Node? n;
         public DetectCycle()
         {
-            //Node n = new Node(1);
-            //n.next = new Node(2);
-            //n.next.next = new Node(3);
-            //n.next.next.next = new Node(4);
-            //n.next.next.next.next = new Node(5);
-
-            ////Make loop to detect
             
-            //n.next.next.next.next.next = new Node(1, new Node(2));
         }
         public Node CycleStart()
         {
@@ -95,17 +87,6 @@ namespace LinkedLists
 
             HashSet<Node> visited = new HashSet<Node>();
             Node temp = new Node();
-
-            //while (n != null)
-            //{
-            //    if (visited.Contains(n))
-            //    {
-            //        visited.Add(n);
-            //        return n;
-            //    }
-            //    n = n.next;
-            //}
-            //return null;
 
             while (n != null)
             {
