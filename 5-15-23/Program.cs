@@ -71,6 +71,18 @@ namespace LinkedLists
         public Node n;
         public DetectCycle()
         {
+            //Node n = new Node(1);
+            //n.next = new Node(2);
+            //n.next.next = new Node(3);
+            //n.next.next.next = new Node(4);
+            //n.next.next.next.next = new Node(5);
+
+            ////Make loop to detect
+            
+            //n.next.next.next.next.next = new Node(1, new Node(2));
+        }
+        public Node CycleStart()
+        {
             Node n = new Node(1);
             n.next = new Node(2);
             n.next.next = new Node(3);
@@ -78,39 +90,38 @@ namespace LinkedLists
             n.next.next.next.next = new Node(5);
 
             //Make loop to detect
-            //n.next.next.next.next.next.next.next = new Node( n.next.next.next.data, n.next.next.next.next);
-            n.next.next.next.next.next = n.next.next;
-        }
-        public Node CycleStart()
-        {
-            HashSet<Node> visited = new HashSet<Node>();
-            //Node temp = new Node();
 
-            while (n != null)
-            {
-                if (visited.Contains(n))
-                {
-                    return n;
-                }
-                n = n.next;
-            }
-            return null;
+            n.next.next.next.next.next = n.next.next.next;
+
+            HashSet<Node> visited = new HashSet<Node>();
+            Node temp = new Node();
 
             //while (n != null)
             //{
-            //    if (n.next == null)
+            //    if (visited.Contains(n))
             //    {
-            //        return null;
+            //        visited.Add(n);
+            //        return n;
             //    }
-            //    if (n.next == temp)
-            //    {
-            //        break;
-            //    }
-            //    Node nex = n.next;
-            //    n.next = temp;
-            //    n = nex;
+            //    n = n.next;
             //}
-            //return n;
+            //return null;
+
+            while (n != null)
+            {
+                if (n.next == null)
+                {
+                    return null;
+                }
+                if (n.next == temp)
+                {
+                    break;
+                }
+                Node nex = n.next;
+                n.next = temp;
+                n = nex;
+            }
+            return n;
         }
     }
     public class Program
@@ -127,7 +138,7 @@ namespace LinkedLists
                 Console.WriteLine("No loop");
             } else
             {
-                Console.WriteLine("Loop at - " +  res);
+                Console.WriteLine("Loop at - " +  res.data);
             }
 
         }
