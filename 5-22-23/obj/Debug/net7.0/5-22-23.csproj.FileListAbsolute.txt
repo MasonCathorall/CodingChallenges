@@ -1,0 +1,15 @@
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\bin\Debug\net7.0\5-22-23.exe
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\bin\Debug\net7.0\5-22-23.deps.json
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\bin\Debug\net7.0\5-22-23.runtimeconfig.json
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\bin\Debug\net7.0\5-22-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\bin\Debug\net7.0\5-22-23.pdb
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.csproj.AssemblyReference.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.AssemblyInfoInputs.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.AssemblyInfo.cs
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.csproj.CoreCompileInputs.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\refint\5-22-23.dll
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.pdb
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\5-22-23.genruntimeconfig.cache
+C:\Users\mpcat\source\repos\CodingChallenges\5-22-23\obj\Debug\net7.0\ref\5-22-23.dll
